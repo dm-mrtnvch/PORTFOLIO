@@ -1,0 +1,16 @@
+.additionalInfoBlock {
+    height: 30vh;
+    background-color: dimgrey;
+}
+
+.additionalInfoContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.additionalInfoButton {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
