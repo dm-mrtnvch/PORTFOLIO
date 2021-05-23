@@ -12,6 +12,10 @@ function Projects() {
                 <div className={styles.projects}>
                     <Project title={'name of project raz'} description={`project's description raz`}/>
                     <Project title={'name of project dva'} description={`project's description dva`}/>
+                    <Project title={'name of project dva'} description={`project's description dva`}/>
+                    <Project title={'name of project dva'} description={`project's description dva`}/>
+                    <Project title={'name of project dva'} description={`project's description dva`}/>
+                    <Project title={'name of project dva'} description={`project's description dva`}/>
                 </div>
             </div>
         </div>

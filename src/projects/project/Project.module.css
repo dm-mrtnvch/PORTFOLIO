@@ -9,10 +9,12 @@
 }
 
 .imageBlock {
-    position: relative;
+
+    position: relative; /* без этого отваливается кнопка с картинки*/
     width: 100%;
 }
 
+/* данный код скопипасчен но он же полностью рабочий*/
 .imageBlock img {
     width: 100%;
     height: auto;
@@ -38,5 +40,5 @@
 }
 
 .descriptionBlock {
-
+    width: 100%;
 }

@@ -9,8 +9,8 @@ function Project(props) {
                 <button className={styles.projectButton}>look</button>
             </div>
             <div className={styles.descriptionBlock}>
-                <div>{props.title}</div>
-                <div>{props.description}</div>
+                <h3>{props.title}</h3>
+                <span>{props.description}</span>
             </div>
         </div>
     )
